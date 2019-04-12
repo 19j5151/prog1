@@ -1,0 +1,6 @@
+# coding: utf-8
+# Your code here!
+print("\t \t \t *")
+print("\t \t * \t *")
+print("\t * \t * \t *")
+print("* \t * \t * \t *")
