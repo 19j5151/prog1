@@ -1,0 +1,19 @@
+# 問題0227
+# (1)
+print("\t \t \t *")
+print("\t \t * \t *")
+print("\t * \t * \t *")
+print("* \t * \t * \t *")
+
+# (2)
+print("\t \t \t * \n \t \t * \t * \n \t * \t * \t * \n * \t * \t * \t *")
+
+# 問題0228
+# (1)
+print("\t \t \t1")
+print("\t \t1 \t \t1")
+print("\t1 \t \t2 \t \t1")
+print("1 \t \t3 \t \t 3 \t \t1")
+
+# (2)
+print("\t \t \t1 \n \t \t1 \t \t1 \n \t1 \t \t2 \t \t1 \n1 \t \t3 \t \t 3 \t \t1")
