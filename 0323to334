@@ -1,0 +1,43 @@
+#0323
+for x in range(11):
+    print(x**2,end=" ")
+
+#0324
+for x in range(100):
+    print(x%5,end=" ")
+
+#0325
+for x in range(100):
+    print(x%2,end=" ")
+
+#0327
+for x in range(1000,1015):
+    print(x, end=" ")
+
+#0328
+for x in range(1000,1101):
+    print(x, end=" ")
+
+#0329
+for x in range(0,100):
+    print(x, end=" ")
+
+#0330
+for x in range(-10,11):
+    print(x, end=" ")
+
+#331
+for x in range(1000,1015,2):
+    print(x, end=" ")
+
+#332
+for x in range(1000,1101,10):
+    print(x, end=" ")
+
+#333
+for x in range(0,101,10):
+    print(x, end=" ")
+
+#334
+for x in range(10,-1,-1):
+    print(x,end=" ")
