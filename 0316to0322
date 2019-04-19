@@ -1,0 +1,27 @@
+#0316
+for x in range(11):
+    print(x*10,end=" ")
+
+#0317
+for x in range(11):
+    print(x*10+10,end=" ")
+
+#0318
+for x in range(9):
+    print(x*5+10,end=" ")
+
+#0319
+for x in range(11):
+    print(x*-1+10,end=" ")
+
+#0320
+for x in range(21):
+    print(10-x,end=" ")
+
+#0321
+for x in range(101):
+    print(100-x,end=" ")
+
+#0322
+for x in range(21):
+    print(100-x*10,end=" ")
