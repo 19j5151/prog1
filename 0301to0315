@@ -1,0 +1,51 @@
+for x in range(100):
+    print("Hello")
+
+for x in range(3):
+    print("Hello")
+
+for x in range(3):
+    print("Helo,World")
+
+for x in range(3):
+    print("Hello")
+    print("World")
+
+for x in range(3):
+    print("Hello")
+for x in range(3):
+    print("World")
+
+for x in range(3):
+    print("Hello")
+    print("World")
+for x in range(3):
+    print("hello,World")
+
+for x in range(10):
+    print("x")
+    
+for x in range(10):
+    print(x)
+
+for x in range(100):
+    print(x)
+
+for x in range(100):
+    print(x, end=" ")
+
+for x in range(200):
+    print(x, end=" ")
+
+for x in range(10):
+    print(x+3, end=" ")
+
+for x in range(100):
+    print(x+1, end=" ")
+    
+    
+for x in range(91):
+    print(x+10,end=" ")
+
+for x in range(21):
+    print(5*x,end=" ")
