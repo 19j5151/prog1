@@ -1,0 +1,28 @@
+# coding: utf-8
+# Your code here!
+for x in range(9):
+    print(x+1, end="\t")
+print()
+for x in range(9):
+    print(2*x+2, end="\t")
+print()
+for x in range(9):
+    print(3*x+3, end="\t")
+print()
+for x in range(9):
+    print(4*x+4, end="\t")
+print()
+for x in range(9):
+    print(5*x+5, end="\t")
+print()
+for x in range(9):
+    print(6*x+6, end="\t")
+print()
+for x in range(9):
+    print(7*x+7, end="\t")
+print()
+for x in range(9):
+    print(8*x+8, end="\t")
+print()
+for x in range(9):
+    print(9*x+9, end="\t")
