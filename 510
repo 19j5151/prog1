@@ -1,0 +1,4 @@
+for y in range(2,5):
+    for x in range(9):
+        print(x*2+y, end=" ")
+    print()
